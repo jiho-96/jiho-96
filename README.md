@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-### 📃Studing
+### 📃Studying
 ---
 <div align="left">
         <img src="https://img.shields.io/badge/Spring-6db33f)?style=flat-square&logo=Spring&logoColor=white"/>
