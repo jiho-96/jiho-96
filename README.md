@@ -2,7 +2,7 @@
 
 ### Welcome 👋
 
-### 💬 연락망
+### 💬 Contact
 
 ---
 * 이메일: yujh96@gamail.com
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <div align="left">
 
 
- ### ⚡ 프로젝트   
+ ### ⚡ Project   
 ---
 
 | 기간 | 항목 | 주 사용기술 | 개인/팀 |
