@@ -5,7 +5,7 @@
 ### 💬 Contact
 
 ---
-* 이메일: yujh96@gamail.com
+* E-mail : yujh96@gamail.com
 
 <!--
 **jiho-96/jiho-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
