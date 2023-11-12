@@ -58,8 +58,9 @@ Here are some ideas to get you started:
 
 | 기간 | 항목 | 주 사용기술 | 개인/팀 |
 | --- | --- | --- | --- |
-| 23.10.16~27 | <a href="https://github.com/jiho-96/web_project">반응형 웹 페이지 제작</a> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>| 개인 |
-| 23.10.16~27 | <a href="https://github.com/jiho-96/Java_DB_Project">게시판 CRUD 기능 개발 </a> | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />  <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />| 개인 |
+| 23.10.28 ~ 23.11.09 | <a href="https://github.com/kimg1623/Shopping-CLI-Java">쇼핑몰 CLI 개발</a> | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />| 팀 |
+| 23.10.16 ~ 23.10.27 | <a href="https://github.com/jiho-96/web_project">반응형 웹 페이지 제작</a> | <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>| 개인 |
+| 23.10.16 ~ 23.10.27 | <a href="https://github.com/jiho-96/Java_DB_Project">게시판 CRUD 기능 개발 </a> | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />  <img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />| 개인 |
 
 
 <br>   
