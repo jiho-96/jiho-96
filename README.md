@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
  ### ⚡ Project   
 ---
-https://github.com/NovTeamProject/Team_Project
+
 | 기간 | 항목 | 주 사용기술 | 개인/팀 |
 | --- | --- | --- | --- |
 | 23.10.28 ~ 23.11.09 | <a href="https://github.com/NovTeamProject/Team_Project">JSP프로젝트</a> | <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />| 팀 |
